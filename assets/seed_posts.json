@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p1",
+    "type": "ride",
+    "title": "Ride to City Center 6 pm",
+    "content": "2 seats from North Gate \u2192 City Center. Split fuel.",
+    "author": "Rohan",
+    "contact": "99999 12345",
+    "createdAt": "2025-08-24T10:00:00Z",
+    "campusId": "UNI-DEMO"
+  },
+  {
+    "id": "p2",
+    "type": "lost",
+    "title": "Lost: Black Backpack",
+    "content": "Near Library yesterday. Reward: 500.",
+    "author": "Aisha",
+    "contact": "aisha@college.edu",
+    "createdAt": "2025-08-23T16:00:00Z",
+    "campusId": "UNI-DEMO"
+  },
+  {
+    "id": "p3",
+    "type": "sale",
+    "title": "Selling: Calculus Textbook",
+    "content": "Thomas 14th Ed. Good condition.",
+    "author": "Vikram",
+    "contact": "@vikram",
+    "createdAt": "2025-08-20T09:30:00Z",
+    "campusId": "UNI-DEMO"
+  }
+]

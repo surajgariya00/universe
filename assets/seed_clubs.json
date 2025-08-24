@@ -1,0 +1,34 @@
+[
+  {
+    "id": "c1",
+    "name": "CodeSoc",
+    "category": "Tech",
+    "description": "Coding club for builders.",
+    "members": 180,
+    "campusId": "UNI-DEMO"
+  },
+  {
+    "id": "c2",
+    "name": "Film Circle",
+    "category": "Media",
+    "description": "Watch, discuss, make.",
+    "members": 120,
+    "campusId": "UNI-DEMO"
+  },
+  {
+    "id": "c3",
+    "name": "Cultural Club",
+    "category": "Culture",
+    "description": "Music, theatre, arts.",
+    "members": 220,
+    "campusId": "UNI-DEMO"
+  },
+  {
+    "id": "c4",
+    "name": "Sports Club",
+    "category": "Sports",
+    "description": "All campus sports.",
+    "members": 260,
+    "campusId": "UNI-DEMO"
+  }
+]

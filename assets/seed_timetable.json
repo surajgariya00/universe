@@ -1,0 +1,44 @@
+[
+  {
+    "day": "Mon",
+    "subject": "Data Structures",
+    "start": "09:00",
+    "end": "10:00",
+    "room": "C-201"
+  },
+  {
+    "day": "Mon",
+    "subject": "Linear Algebra",
+    "start": "11:00",
+    "end": "12:00",
+    "room": "A-105"
+  },
+  {
+    "day": "Tue",
+    "subject": "Operating Systems",
+    "start": "10:00",
+    "end": "11:00",
+    "room": "C-103"
+  },
+  {
+    "day": "Wed",
+    "subject": "DBMS Lab",
+    "start": "14:00",
+    "end": "16:00",
+    "room": "Lab-2"
+  },
+  {
+    "day": "Thu",
+    "subject": "Computer Networks",
+    "start": "12:00",
+    "end": "13:00",
+    "room": "C-101"
+  },
+  {
+    "day": "Fri",
+    "subject": "Elective: AI Basics",
+    "start": "15:00",
+    "end": "16:00",
+    "room": "B-305"
+  }
+]

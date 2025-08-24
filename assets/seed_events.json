@@ -1,0 +1,44 @@
+[
+  {
+    "id": "e1",
+    "title": "Hack Night \u2013 Flutter x Firebase",
+    "clubId": "c1",
+    "location": "CSE Lab 2",
+    "start": "2025-09-05T18:00:00Z",
+    "end": "2025-09-05T22:00:00Z",
+    "tags": [
+      "tech",
+      "flutter",
+      "hack"
+    ],
+    "description": "Bring your laptop, build a feature in 4 hours. Pizza at 8!",
+    "campusId": "UNI-DEMO"
+  },
+  {
+    "id": "e2",
+    "title": "Open Mic Evening",
+    "clubId": "c3",
+    "location": "Amphitheatre",
+    "start": "2025-09-06T17:30:00Z",
+    "end": "2025-09-06T20:00:00Z",
+    "tags": [
+      "music",
+      "standup"
+    ],
+    "description": "Sign up by 5 pm. Guitars welcome.",
+    "campusId": "UNI-DEMO"
+  },
+  {
+    "id": "e3",
+    "title": "Football Tryouts",
+    "clubId": "c4",
+    "location": "Main Ground",
+    "start": "2025-09-07T07:00:00Z",
+    "end": "2025-09-07T09:00:00Z",
+    "tags": [
+      "sports"
+    ],
+    "description": "All years welcome. Bring shoes and water.",
+    "campusId": "UNI-DEMO"
+  }
+]
